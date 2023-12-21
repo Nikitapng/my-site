@@ -315,7 +315,7 @@ h1{
     font-family: NuritoB;
 }
 
-#contact-form input[type="tel"], #contact-form input[type="date"], #contact-form input[type="email"], #contact-form input[type="text"]{
+.contact-form input[type="tel"], .contact-form input[type="date"], .contact-form input[type="email"], .contact-form input[type="text"]{
     height: 40px;
     width: 350px;
     padding: 20px;
@@ -330,7 +330,7 @@ h1{
     
 }
 
-  #contact-form select{
+  .contact-form select{
     height: 45px;
     width: 350px;
     padding-left: 15px;
@@ -347,11 +347,11 @@ h1{
     box-shadow: #0084ff94 0px 0px 20px;
   }
   
-  #contact-form{
+  .contact-form{
     font-family: NuritoB;
     color: #0085FF;
   }
-  #contact-form textarea{
+  .contact-form textarea{
     height: 100px;
     width: 350px;
     background-color: #ffffff;
@@ -364,7 +364,7 @@ h1{
     font-family:'NuritoL', sans-serif;
     box-shadow: #0084ff94 0px 0px 20px;
   }
-  #contact-form input[type="submit"]{
+  .contact-form input[type="submit"]{
     flex: 1;
     border: solid;
     font-family: NuritoB;
@@ -376,7 +376,7 @@ h1{
     transition: 200ms;
   }
   
-  #contact-form input[type="submit"]:hover{
+  .contact-form input[type="submit"]:hover{
     border: #0085FF solid 4px;
     color: #0085FF;
     border-radius: 14px;
