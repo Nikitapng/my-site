@@ -5,13 +5,13 @@
 
 @font-face {
     font-family: "NuritoB";
-    src: url("/font/NunitoSans_7pt_Expanded-ExtraBold.ttf") format('truetype');
+    src: url("font/NunitoSans_7pt_Expanded-ExtraBold.ttf") format('truetype');
     font-style: normal;
   }
   
   @font-face {
     font-family: "NuritoL";
-    src: url("/font/NunitoSans_7pt_Expanded-Regular.ttf") format('truetype');
+    src: url("font/NunitoSans_7pt_Expanded-Regular.ttf") format('truetype');
     font-style: normal;
   }
 html{
